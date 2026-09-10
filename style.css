@@ -1,0 +1,27 @@
+body {
+    front-family: Arial, sans-serif;
+    background-color: #ede0c8;
+    margin: 0;
+}
+
+header {
+    background-color: #7b3030;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.lugares {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.card `{
+    text-align: center;
+}
+.card img {
+    width:400px;
+    height:300px;
+    display: block;
+    
+}
